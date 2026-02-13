@@ -1,8 +1,8 @@
 # Hey, I'm Bruno Stewart 👋
 
-**Backend Software Developer** | C# / .NET Enthusiast | Incoming Graduate Developer @ Mercedes-Benz 🚀
+**Backend Software Developer** | C# / .NET Enthusiast  🚀
 
-Software dev graduate passionate about building reliable, scalable backend systems. Currently leveling up my C# fundamentals through hands-on projects while gearing up for my grad developer role at Mercedes-Benz (starting soon!).
+Software dev graduate passionate about building reliable, scalable backend systems. Currently leveling up my C# fundamentals through hands-on projects while gearing up for my grad developer role.
 
 With a solid foundation in ASP.NET Core, Razor Pages, Blazor, Entity Framework Core, and a growing interest in clean architecture, APIs, authentication, and secure coding practices — plus 6 months of hands-on cybersecurity experience — I'm all about writing clean, testable code that solves real problems.
 
