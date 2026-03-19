@@ -26,7 +26,6 @@ Building muscle memory by shipping small-to-medium apps from scratch:
 Goal: Deliver clean, production-ready code that would feel at home in an enterprise environment like Mercedes-Benz mobility/tech platforms.
 
 ### 🌱 What I'm Up To
-- Prepping for Mercedes-Benz grad program (excited to contribute to automotive software innovation!)  
 - Daily coding drills: async patterns, LINQ mastery, pattern matching, records, source generators  
 - Planning to add more tests, CI/CD (GitHub Actions), and maybe Docker-compose setups  
 - Open to collab on .NET backend projects or cybersec-related tooling  
